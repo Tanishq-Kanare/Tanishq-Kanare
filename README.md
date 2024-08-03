@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tanishq-Kanare
-- 👀 I’m interested in embedded systems, robotics, cyber-security, ethical hacking core electronics and MATLAB
+- 👀 I’m interested in embedded systems, robotics, cyber-security, ethical hacking, core electronics and MATLAB
 - 🌱 I’m currently learning Cyber security, Embedded systems and Mobile Communication
 - 💞️ I’m looking to collaborate on open source projects in the domain of ethical hacking, embedded systems
 - 📫 How to reach me: Connect me on kanaretanishq312@gmail.com or tanishqkanare@gmail.com or https://www.linkedin.com/in/tanishq-kanare-649842227/
